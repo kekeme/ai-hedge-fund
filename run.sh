@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# hello test
 # Help text to display when --help is provided
 show_help() {
   echo "AI Hedge Fund Docker Runner"
